@@ -1,9 +1,9 @@
-name: Gerar Gráfico de Cobrinha
+name: Generate Pacman Contribution Graph
 
 on:
   schedule:
     - cron: "0 0 * * *"  # Atualiza todo dia à meia-noite (UTC)
-  workflow_dispatch:
+  workflow_dispatch:  # Para rodar manualmente quando precisar
 
 jobs:
   build:
@@ -15,7 +15,7 @@ jobs:
       - name: 🎮 Gerar gráfico estilo Pac-Man
         uses: Platane/snk@v3
         with:
-          github_user_name: OtavioAugustodaRoza
+          github_user_name: seu-usuario-github  # Substitua com seu nome de usuário no GitHub
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
