@@ -1,16 +1,16 @@
-## Hi there 👋
+Oi, eu sou o Kauan
+Eu estudo Informática 
+<a href="https://beacons.ai/kauan1099">
+  [Link para Beacons.ai]
+</a>
 
-<!--
-**kauan1099/kauan1099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=kauan1099&show_icons=true&theme=dracula&include_all_commits=true"
+/>
 
-Here are some ideas to get you started:
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan1099&layout=compact&langs_count=7&theme=dracula"
+/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
