@@ -9,7 +9,7 @@
   Neste perfil você encontrará as atividades que realizei ao longo dos anos em informática e desenvolvimento web!
 </p>
 
-<h2 align="center" style="margin-bottom:30px;">Linguagens que utilizo</h2>
+<h2 align="center" style="margin-bottom:30px;">Linguagens que utilizo:</h2>
 
 <p align="center" style="margin-top:50px; margin-bottom:50px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="90" width="90" style="margin:30px;">
@@ -17,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="90" width="90" style="margin:30px;">
 </p>
 
-<h2 align="center">Meus commits</h2>
+<h2 align="center">Meus commits:</h2>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauan1099&show_icons=true&theme=dracula&include_all_commits=true" />
