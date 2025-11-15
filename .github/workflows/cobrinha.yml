@@ -15,7 +15,7 @@ jobs:
       - name: 🎮 Gerar gráfico estilo Pac-Man
         uses: Platane/snk@v3
         with:
-          github_user_name: seu-usuario-github  # Substitua com seu nome de usuário no GitHub
+          github_user_name: kauan1099
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
