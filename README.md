@@ -17,13 +17,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="90" width="90" style="margin:30px;">
 </p>
 
-<h2 align="center">📊 Meus commits</h2>
+<h2 align="center">Meus commits</h2>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauan1099&show_icons=true&theme=dracula&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan1099&layout=compact&langs_count=7&theme=dracula" />
 </p>
-<h2 align="center">📫 Contate-se comigo</h2>
+<h2 align="center">Contate-se comigo</h2>
 
 <p align="center" style="margin-top:30px; margin-bottom:50px;">
   <a href="https://www.facebook.com/kauan1099" target="_blank">
