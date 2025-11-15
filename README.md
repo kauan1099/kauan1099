@@ -1,11 +1,7 @@
-<!-- TEXTO ANIMADO COM FUNDO PRETO E LETRAS VERMELHAS -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=FF0000&center=true&vCenter=true&width=800&height=100&background=000000&lines=Bem+vindo+ao+meu+perfil,+eu+sou+o+Kauan;Estudo+Informática+no+IFC+Araquari" />
 </h1>
 
----
-
-<!-- SOBRE MIM -->
 <h1 align="center">Sobre mim!</h1>
 
 <p align="center" style="font-size:36px; line-height:2.2; max-width:900px; margin:auto;">
@@ -13,10 +9,7 @@
   Neste perfil você encontrará as atividades que realizei ao longo dos anos em informática e desenvolvimento web!
 </p>
 
----
-
-<!-- LINGUAGENS -->
-<h2 align="center" style="margin-bottom:30px;">🌐 Linguagens que utilizo</h2>
+<h2 align="center" style="margin-bottom:30px;">Linguagens que utilizo</h2>
 
 <p align="center" style="margin-top:50px; margin-bottom:50px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" height="90" width="90" style="margin:30px;">
@@ -24,9 +17,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="90" width="90" style="margin:30px;">
 </p>
 
----
-
-<!-- COMMIT STATS -->
 <h2 align="center">📊 Meus commits</h2>
 
 <p align="center">
