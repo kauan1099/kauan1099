@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=FF0000&center=true&vCenter=true&width=800&height=100&background=000000&lines=Bem+vindo+ao+meu+perfil,+eu+sou+o+Kauan;e;Estudo+Informática+no+IFC+Araquari" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=FF0000&center=true&vCenter=true&width=800&height=100&background=000000&lines=Bem+vindo+ao+meu+perfil,+eu+sou+o+Kauan;Estudo+Informática+no+IFC+Araquari" />
 </h1>
 
 <h1 align="center">Sobre mim!</h1>
