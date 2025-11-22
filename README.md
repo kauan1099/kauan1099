@@ -50,8 +50,9 @@
 
 ---
 
-<h2 align="center">Animação de Cobrinha!</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauan1099/kauan1099/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauan1099/kauan1099/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kauan1099/kauan1099/output/pacman-contribution-graph.svg">
+</picture>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kauan1099/kauan1099/output/snake.svg" alt="snake animation">
-</p>
