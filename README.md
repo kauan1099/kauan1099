@@ -11,8 +11,7 @@
 <p align="center">
   Olá! Tenho <strong>16 anos</strong> e moro em <strong>Balneário Barra do Sul, SC</strong>.<br/>
   Atualmente estou cursando o <strong>1º ano no Instituto Federal Catarinense (IFC)</strong>.<br/>
-  Aqui você encontrará minhas atividades e projetos desenvolvidos durante minha trajetória no IFC.
-</p>
+Aqui você encontrará minhas atividades e projetos desenvolvidos durante meus anos estudando no IFC.</p>
 
 <h2 align="center">Linguagens que utilizo</h2>
 
@@ -35,7 +34,7 @@
   <img src="https://streak-stats.demolab.com?user=kauan1099&theme=dark&background=000000&ring=FF5555&fire=FF5555&currStreakLabel=FFFFFF&hide_border=true" />
 </div>
 
-<h2 align="center">Gráfico de contribuições</h2>
+<h2 align="center">Gráfico das minhas contribuições:</h2>
 
 <p align="center">
   <picture>
