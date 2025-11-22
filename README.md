@@ -50,7 +50,7 @@
 
 ---
 
-<h2 align="center">🐍 Animação de Cobrinha</h2>
+<h2 align="center">Animação de Cobrinha!</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kauan1099/kauan1099/output/snake.svg" alt="snake animation">
