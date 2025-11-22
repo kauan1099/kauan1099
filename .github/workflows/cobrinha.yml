@@ -1,28 +1,29 @@
-name: Generate Pacman Contribution Graph
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Atualiza todo dia à meia-noite (UTC)
-  workflow_dispatch:  # Para rodar manualmente quando precisar
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: 📥 Clonar repositório
+      - name: Check out the repository
         uses: actions/checkout@v3
 
-      - name: 🎮 Gerar gráfico estilo Pac-Man
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: kauan1099
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+          outputs: dist/snake.svg
 
-      - name: 🚀 Publicar resultado na branch output
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Push Snake
+        uses: EndBug/add-and-commit@v9
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
+          message: "snake animation"
+          add: "dist/snake.svg"
