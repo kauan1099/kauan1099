@@ -38,7 +38,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-%23FF0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-![Snake animation](https://raw.githubusercontent.com/kauan1099/kauan1099/main/dist/snake.svg)
+## 🐍 Snake
+![snake animation](https://raw.githubusercontent.com/kauan1099/kauan1099/output/github-contribution-grid-snake.svg)
+
 
 
 </p>
