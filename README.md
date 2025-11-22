@@ -29,13 +29,11 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan1099&layout=compact&theme=dark&title_color=FF5555&hide_border=true" />
 </div>
 
-<br/>
-
-<div align="center">
+<div align="center" style="margin-top:10px;">
   <img src="https://streak-stats.demolab.com?user=kauan1099&theme=dark&background=000000&ring=FF5555&fire=FF5555&currStreakLabel=FFFFFF&hide_border=true" />
 </div>
 
-<h2 align="center">Gráfico de contribuições</h2>
+<h2 align="center">Gráfico de contribuições:</h2>
 
 <p align="center">
   <picture>
