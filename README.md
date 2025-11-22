@@ -8,7 +8,7 @@
 
 <p align="center" style="font-size:18px; max-width:850px; margin:auto; line-height:1.8;">
   Olá! Eu moro em <strong>Balneário Barra do Sul</strong>.<br/>
-  Aqui no GitHub você encontrará meus projetos e atividades desenvolvidas ao longo da minha jornada em informática e desenvolvimento web.
+  Aqui você encontrará minhas atividades e projetos feitas ao longo da minha jornada em informática e desenvolvimento web.
 </p>
 
 <hr/>
