@@ -22,15 +22,11 @@
   <img src="https://skillicons.dev/icons?i=js" height="70">
 </p>
 
-<h2 align="center">Meus commits</h2>
+<h2 align="center">Commits:</h2>
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kauan1099&show_icons=true&theme=dark&title_color=FF5555&icon_color=FF5555&hide_border=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauan1099&layout=compact&theme=dark&title_color=FF5555&hide_border=true" />
-</div>
-
-<div align="center" style="margin-top:10px;">
-  <img src="https://streak-stats.demolab.com?user=kauan1099&theme=dark&background=000000&ring=FF5555&fire=FF5555&currStreakLabel=FFFFFF&hide_border=true" />
 </div>
 
 <h2 align="center">Gráfico de contribuições:</h2>
