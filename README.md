@@ -31,15 +31,9 @@
 
 <h2 align="center">Gráfico de contribuições:</h2>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauan1099/kauan1099/main/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauan1099/kauan1099/main/output/pacman-contribution-graph.svg">
-    <img src="https://raw.githubusercontent.com/kauan1099/kauan1099/main/output/pacman-contribution-graph.svg" height="160em">
-  </picture>
-
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=kauan1099&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" height="160em">
-</div>
+</p>
 
 <h2 align="center">Contato</h2>
 
@@ -53,6 +47,14 @@
   <a href="https://www.linkedin.com/in/kauan1099" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauan1099/kauan1099/main/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauan1099/kauan1099/main/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/kauan1099/kauan1099/main/output/pacman-contribution-graph.svg" height="160em">
+  </picture>
 </p>
 
 <p align="center">
