@@ -33,9 +33,9 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauan1099/kauan1099/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauan1099/kauan1099/output/pacman-contribution-graph.svg">
-    <img src="https://raw.githubusercontent.com/kauan1099/kauan1099/output/pacman-contribution-graph.svg" height="160em">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauan1099/kauan1099/main/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauan1099/kauan1099/main/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/kauan1099/kauan1099/main/output/pacman-contribution-graph.svg" height="160em">
   </picture>
 
   <img src="https://streak-stats.demolab.com?user=kauan1099&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" height="160em">
