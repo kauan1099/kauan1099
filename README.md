@@ -32,9 +32,17 @@
 <h2 align="center">Gráfico de contribuições:</h2>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauan1099/kauan1099/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauan1099/kauan1099/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/kauan1099/kauan1099/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</p>
+
+<p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=kauan1099&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" 
-    alt="GitHub Streak" 
+    alt="GitHub Streak"
     height="160em">
 </p>
 
