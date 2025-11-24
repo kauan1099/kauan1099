@@ -52,7 +52,11 @@
 <h2 align="center">Pac-Man Animado</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kauan1099/kauan1099/main/output/pacman.gif" height="160em">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauan1099/kauan1099/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauan1099/kauan1099/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/kauan1099/kauan1099/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
 </p>
 
 <p align="center">
