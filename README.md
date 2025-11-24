@@ -49,12 +49,10 @@
   </a>
 </p>
 
+<h2 align="center">Pac-Man Animado</h2>
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauan1099/kauan1099/main/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauan1099/kauan1099/main/output/pacman-contribution-graph.svg">
-    <img src="https://raw.githubusercontent.com/kauan1099/kauan1099/main/output/pacman-contribution-graph.svg" height="160em">
-  </picture>
+  <img src="https://raw.githubusercontent.com/kauan1099/kauan1099/main/output/pacman.gif" height="160em">
 </p>
 
 <p align="center">
