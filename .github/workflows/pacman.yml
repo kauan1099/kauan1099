@@ -18,7 +18,7 @@ jobs:
           github_user_name: "kauan1099"
           outputs: |
             dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+            dist/pacman-contribution-graph-dark.svg
 
       - name: 🚀 Criar branch output e publicar
         uses: peaceiris/actions-gh-pages@v3
@@ -26,3 +26,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          allow_empty_commit: false
+          keep_files: false
