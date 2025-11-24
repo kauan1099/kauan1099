@@ -2,7 +2,7 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Atualiza todo dia à meia-noite (UTC)
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -20,10 +20,9 @@ jobs:
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - name: 🚀 Publicar resultado na branch output
+      - name: 🚀 Criar branch output e publicar
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-
