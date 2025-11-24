@@ -49,8 +49,6 @@
   </a>
 </p>
 
-<h2 align="center">Pac-Man Animado</h2>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauan1099/kauan1099/output/pacman-contribution-graph-dark.svg">
