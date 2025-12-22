@@ -10,7 +10,7 @@
 
 <p align="center">
   Olá! Tenho <strong>16 anos</strong> e moro em <strong>Balneário Barra do Sul, SC</strong>.<br/>
-  Atualmente estou cursando o <strong>1º ano no Instituto Federal Catarinense (IFC)</strong>.<br/>
+  Atualmente estou cursando o <strong>2º ano no Instituto Federal Catarinense (IFC)</strong>.<br/>
   Aqui você encontrará minhas atividades e projetos feitos durante meus anos estudando no IFC.
 </p>
 
